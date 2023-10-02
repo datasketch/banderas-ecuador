@@ -36,7 +36,7 @@ export default function RedFlags ({ years }) {
               </div>
             </div>
             <div id="app">
-              <iframe className="h-96 md:h-auto md:aspect-video" src="https://services.datasketch.co/banderas-app/" width="100%"></iframe>
+              <iframe className="h-screen" src="https://services.datasketch.co/banderas-app/" width="100%"></iframe>
             </div>
           </div>
         </div>
